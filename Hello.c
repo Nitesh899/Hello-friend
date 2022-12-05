@@ -2,5 +2,5 @@
 void main()
 {
   printf("Hello-friend.....");
-    printf("\|This is a simple C program");
+    printf("\ This is a simple C program");
   }
