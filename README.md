@@ -1,2 +1,2 @@
 # Hello-friend
-This is a Hello-friend program written in  C language.
+This is a Hello-friend program written in C language.
